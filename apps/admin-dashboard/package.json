@@ -5,7 +5,7 @@
     "description": "Cloud Industrie - CRM & School Management Monorepo",
     "scripts": {
         "dev": "echo 'Admin Dashboard not ready'",
-        "build": "turbo run build",
+        "build": "echo 'Admin Dashboard not ready'",
         "lint": "turbo run lint",
         "clean": "turbo run clean"
     },
